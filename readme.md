@@ -37,4 +37,6 @@ Inline validation*
 
 = 1.0 =
 
+task===>
+Load the stylesheet only in the Option page using enqueue_script
 
