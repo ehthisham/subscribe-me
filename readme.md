@@ -1,42 +1,40 @@
-=== SubscribeMe ===
-Contributors: Ehthisham tk
-email: ehthisham@wowmakers.com
-Tags: subscribe, form, subscribe form, email, ajax
-Tested on: 3.3.1
+# SubscribeMe
 
-A simple subscribe plugin
+Contributors: Ehthisham tk  
+email: ehthisham@wowmakers.com  
+Tags: subscribe, form, subscribe form, email, ajax  
+Tested on: 3.3.1  
 
-== Description ==
+A simple subscribe plugin.
 
-This plugin lets user to subscribe his mobile number with wordpress site. It displays a form with name, email, phone. Admin is able to see the subscribed users list from dashboard. 
+## Description
 
-== Installation ==
+This plugin lets user to subscribe his mobile number with wordpress site. It displays
+a form with name, email, phone. Admin is able to see the subscribed users list 
+from dashboard. 
 
-1. Upload the entire `subscribe-me` folder to the `/wp-content/plugins/` directory.
-1. Activate the plugin through the 'Plugins' menu in WordPress.
+## Installation
+
+* Upload the entire `subscribe-me` folder to the `/wp-content/plugins/` directory.
+* Activate the plugin through the 'Plugins' menu in WordPress.
 
 You will find 'Subscribers' menu in your WordPress admin panel.
 
-== Usage ==
+## Usage
 
-Paste the shortcode 
-	[subscribe-me title="Subscribe form"] 
-in the page where you want the subscription form to appear. 
+Paste the shortcode `[subscribe-me title="Subscribe form"]` in the page where you want
+the subscription form to appear. 
 
-== Features ==
-Ajax form submission
-Inline validation* 
+## Features
 
-*You need to include jquery validator by Jörn Zaefferer from http://bassistance.de/jquery-plugins/jquery-plugin-validation/
+* Ajax form submission
+* Inline validation
+* You need to include jquery validator by Jörn Zaefferer from http://bassistance.de/jquery-plugins/jquery-plugin-validation/
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions
 
-== Screenshots ==
+...
 
-== Changelog ==
+## TODO
 
-= 1.0 =
-
-task===>
 Load the stylesheet only in the Option page using enqueue_script
-
