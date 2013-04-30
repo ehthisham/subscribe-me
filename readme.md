@@ -1,6 +1,6 @@
 # SubscribeMe
 
-Contributors: Ehthisham tk, Nithin Bekal
+Contributors: Ehthisham tk, Nithin Bekal  
 email: e20m786@gmail.com  
 Tags: subscribe, form, subscribe form, email, ajax  
 Tested on: 3.3.1  
